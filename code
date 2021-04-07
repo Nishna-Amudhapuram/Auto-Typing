@@ -1,0 +1,3 @@
+import pyautogui
+pyautogui.typewrite("It's me Nishna ")
+pyautogui.typewrite("It's me Nishna", interval=0.25)
